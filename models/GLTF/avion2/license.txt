@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spaceship-Concorde
+* source:	https://sketchfab.com/3d-models/spaceship-concorde-ff4c5c0cd48d4174a801f929bd11ae98
+* author:	Koyshem (https://sketchfab.com/koyshem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spaceship-Concorde" (https://sketchfab.com/3d-models/spaceship-concorde-ff4c5c0cd48d4174a801f929bd11ae98) by Koyshem (https://sketchfab.com/koyshem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

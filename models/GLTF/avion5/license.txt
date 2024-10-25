@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sr-71
+* source:	https://sketchfab.com/3d-models/sr-71-79e6c14217ab417abe524a99ffbb472e
+* author:	Kiiba (https://sketchfab.com/Kiiba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sr-71" (https://sketchfab.com/3d-models/sr-71-79e6c14217ab417abe524a99ffbb472e) by Kiiba (https://sketchfab.com/Kiiba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

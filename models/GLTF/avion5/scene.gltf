@@ -1,0 +1,403 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.700340986251831,
+        0.3955295979976654,
+        1.066461443901062
+      ],
+      "min": [
+        -2.434796094894409,
+        -0.11939181387424469,
+        -0.3519892692565918
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999724626541138,
+        1.0,
+        0.9999040365219116
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999300241470337
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0000004768371582,
+        1.0000004768371582
+      ],
+      "min": [
+        -0.0008339930791407824,
+        -0.0008339930791407824
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 362598,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 52611,
+      "max": [
+        1.6953105926513672,
+        0.3955295979976654,
+        0.22665615379810333
+      ],
+      "min": [
+        -2.434796094894409,
+        -0.11939181387424469,
+        -1.066461443901062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2204100,
+      "componentType": 5126,
+      "count": 52611,
+      "max": [
+        0.9999722242355347,
+        1.0,
+        0.9999300241470337
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9997488260269165
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 52611,
+      "max": [
+        1.0000004768371582,
+        1.0000004768371582
+      ],
+      "min": [
+        -0.0008339929627254605,
+        -0.0008339929627254605
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1450392,
+      "componentType": 5125,
+      "count": 280218,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2835432,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        1.0813641548156738,
+        0.07691647112369537,
+        0.05197395756840706
+      ],
+      "min": [
+        0.9194716811180115,
+        0.024257751181721687,
+        -0.05197395756840706
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2837448,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        0.47682029008865356,
+        0.8397608399391174,
+        0.8880345225334167
+      ],
+      "min": [
+        -0.9664020538330078,
+        -0.8994022607803345,
+        -0.8880345225334167
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 945144,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2571264,
+      "componentType": 5125,
+      "count": 216,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "pablogcg05 (https://sketchfab.com/pablogcg05)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sr-71-blackbird-free-downloadable-68038c36f48a40b9a769331abcd822c1",
+      "title": "SR-71 blackbird (FREE) downloadable"
+    },
+    "generator": "Sketchfab-13.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2572128,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 946488,
+      "byteOffset": 2572128,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2839464,
+      "byteOffset": 3518616,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6358080,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Exterior",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0021947,
+          0.0021947,
+          0.0021947,
+          1.0
+        ],
+        "metallicFactor": 0.495455,
+        "roughnessFactor": 0.590909
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Critstles"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Plane_3"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        48.5173454284668,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Plane.001_4"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_7"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

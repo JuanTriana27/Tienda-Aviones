@@ -1,0 +1,11 @@
+Model Information:
+* title:	F/A18 C Hornet - fighter jet
+* source:	https://sketchfab.com/3d-models/fa18-c-hornet-fighter-jet-78b3c419829b489e9c6789d3b4bb41f9
+* author:	waelXcm (https://sketchfab.com/waelXcm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F/A18 C Hornet - fighter jet" (https://sketchfab.com/3d-models/fa18-c-hornet-fighter-jet-78b3c419829b489e9c6789d3b4bb41f9) by waelXcm (https://sketchfab.com/waelXcm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

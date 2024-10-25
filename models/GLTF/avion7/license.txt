@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yellow biplane
+* source:	https://sketchfab.com/3d-models/yellow-biplane-9e8f7a45e051474b87669abc13e4bdde
+* author:	fedykfed (https://sketchfab.com/fedykfed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yellow biplane" (https://sketchfab.com/3d-models/yellow-biplane-9e8f7a45e051474b87669abc13e4bdde) by fedykfed (https://sketchfab.com/fedykfed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

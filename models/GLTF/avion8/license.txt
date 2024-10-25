@@ -1,0 +1,11 @@
+Model Information:
+* title:	C17 Globemaster III
+* source:	https://sketchfab.com/3d-models/c17-globemaster-iii-597e0d7f9e3446719a2f2de3dd3fa67d
+* author:	AnirudhRao (https://sketchfab.com/AnirudhRao)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "C17 Globemaster III" (https://sketchfab.com/3d-models/c17-globemaster-iii-597e0d7f9e3446719a2f2de3dd3fa67d) by AnirudhRao (https://sketchfab.com/AnirudhRao) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
