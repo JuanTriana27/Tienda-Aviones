@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Three JS</title>
+    <link rel="stylesheet" href="/src/css/mainStyle.css">
+
+    <script src="/libs/build/three.js"></script>
+    <script src="/vendors/three.js-master/build/three.min.js"></script>
+
+    <script src="/vendors/load/DRACOLoader.js"></script>
+    <script src="/vendors/load/GLTFLoader.js"></script>
+    <script src="/vendors/load/OBJLoader.js"></script>
+    <script src="/vendors/load/MTLLoader.js"></script>
+
+    <script src="/libs/controls/OrbitControls.js"></script>
+
+    <script src="/src/js/mainAvion3.js"></script>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+</head>
+
+<body onload="start()">
+    <canvas width="1000" height="800" class="webgl"></canvas>
+
+    <div class="topnav">
+        <a onclick="createLight('AmbientLight')">AmbientLight</a>
+        <a onclick="createLight('DirectionalLight')">DirectionalLight</a>
+        <a onclick="createLight('PointLight')">PointLight</a>
+        <a onclick="createObject('MostrarAvion')">Mostrar Avion</a>
+    </div>
+</body>
+
+</html>
